@@ -63,7 +63,7 @@ streamlit run app.py
 
 ---
 
-**Developed by:** Zohaib Ahmed Khan (Aspiring Data Scientist)
+**Developed by:** Zohaib Ahmed Khan 
 
 ```
 
